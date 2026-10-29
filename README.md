@@ -19,6 +19,8 @@ Krabi, Thailand
 
 เป้าหมาย: เป็น Network Engineer
 
+
+
 ทักษะ
 
 พื้นฐาน github
