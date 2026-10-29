@@ -1,4 +1,4 @@
-<h1 align="center">สวัสดีครับ 👋 ผมชื่อ Gugus</h1>
+<h1 align="center">สวัสดีครับ 👋 ผมชื่อ ธนวิชญ์ คงน้อย</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Life+is+Better;Student+at+Krabi+Technical+College;Learning+Web+Development" alt="Typing SVG" />
